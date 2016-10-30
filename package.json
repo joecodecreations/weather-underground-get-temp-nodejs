@@ -1,0 +1,27 @@
+{
+  "name": "weather-underground-get-temp-nodejs",
+  "version": "1.0.0",
+  "description": "Grabs weather using WeatherUnderground API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joecodecreations/weather-underground-get-temp-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weatherunderground",
+    "controller"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joecodecreations/weather-underground-get-temp-nodejs/issues"
+  },
+  "homepage": "https://github.com/joecodecreations/weather-underground-get-temp-nodejs#readme",
+  "dependencies": {
+    "node-weatherunderground": "^1.2.0"
+  }
+}
